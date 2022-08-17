@@ -9,4 +9,10 @@ fun main(args: Array<String>) {
     myBoolean = myDouble<myLong&&myShort>myInt
     var myChar:Char = 'a'
     println(myBoolean)
+    println(myByte)
+    println(myShort)
+    println(myInt)
+    println(myLong)
+    println(myFloat)
+    println(myDouble)
 }
